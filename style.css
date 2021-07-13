@@ -1,0 +1,20 @@
+body{
+    background-image:url('photo-1557682250-33bd709cbe85.jpg');
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+}
+
+.header{
+    font-family: 'Caveat', cursive;
+    color:white;
+    font-size:70;
+}
+
+.btn{
+    color:white;
+    font-size:25px;
+    background-color: transparent;
+    border:3px white;
+    border-radius:100px;
+}
